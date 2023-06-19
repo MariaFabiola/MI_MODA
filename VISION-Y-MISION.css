@@ -1,0 +1,187 @@
+ .u-section-1 {
+  background-image: url("images/positive-business-woman-posing-camera-outdoors.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 100vh;
+}
+
+.u-section-1 .u-text-1 {
+  text-align: justify;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 78px 28px 0 602px;
+}
+
+.u-section-1 .u-text-2 {
+  text-align: justify;
+  font-size: 1.125rem;
+  font-weight: 700;
+  margin: 8px 60px 0 570px;
+}
+
+.u-section-1 .u-text-3 {
+  text-align: justify;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 64px 60px 0 570px;
+}
+
+.u-section-1 .u-text-4 {
+  text-align: justify;
+  font-size: 1.125rem;
+  font-weight: 700;
+  margin: 41px 60px 60px 570px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+    margin-left: 430px;
+    width: 510px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+    margin-left: 430px;
+    width: 510px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 0;
+    margin-left: 430px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 0;
+    margin-left: 430px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-left: 210px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1rem;
+    width: auto;
+    margin-right: 360px;
+    margin-left: 210px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 210px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 210px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    background-position: 0% 50%;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 30px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 180px;
+    margin-left: 30px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 30px;
+  }
+
+  .u-section-1 .u-text-4 {
+    font-size: 1rem;
+    margin-left: 30px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    background-position: 17.22% 50%;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 340px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 0;
+  }
+} .u-section-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("images/silhouette-business-people-discussion-meeting-cityscape-team-concept.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 673px;
+}
+
+.u-section-2 .u-text-1 {
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 70px 429px 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 725px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-right: 229px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 425px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-right: 9px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 319px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 201px;
+  }
+}
